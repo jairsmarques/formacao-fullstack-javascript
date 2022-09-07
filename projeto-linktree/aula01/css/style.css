@@ -1,3 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 html, body {
     height: 100%;
 }
@@ -20,8 +25,25 @@ h1 {
     font-family: 'Architects Daughter', cursive;
     font-weight: 100;
     font-size: 24px;
+    margin-bottom: 2px;
 }
 
 h2 {
     font-size: 16px;
+}
+
+.profile {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.social {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    margin: 20px 0;
+}
+
+.social img {
+    width: 33px;
 }
