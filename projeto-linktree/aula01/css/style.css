@@ -47,3 +47,28 @@ h2 {
 .social img {
     width: 33px;
 }
+
+.links-list {
+    list-style: none;
+}
+
+.links-list li {
+    margin: 10px;
+}
+
+.links-list li a {
+    display: block;
+    background-color: white;
+    text-decoration: none;
+    text-align: center;
+    padding: 15px 20px;
+    border-radius: 4px;
+    color: rgb(54,77,204);
+    font-weight: bold;
+}
+
+.links-list li a span {
+    display: block;
+    margin-top: 10px;
+    color: gray;
+}
