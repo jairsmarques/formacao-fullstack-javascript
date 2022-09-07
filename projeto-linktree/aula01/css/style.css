@@ -50,6 +50,7 @@ h2 {
 
 .links-list {
     list-style: none;
+    padding-bottom: 10px;
 }
 
 .links-list li {
