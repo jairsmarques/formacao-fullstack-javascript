@@ -30,3 +30,9 @@ body {
     background: #d8d8d8;
     padding: 30px;
 }
+
+.footer {
+    background-color: gray;
+    text-align: center;
+    padding: 20px 0;
+}
