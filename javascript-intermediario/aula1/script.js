@@ -1,5 +1,3 @@
-window.alert('Hello Word!')
+console.log(document)
 
-alert('Hello Word!')
-
-window.location
+document.title = 'Teste'
