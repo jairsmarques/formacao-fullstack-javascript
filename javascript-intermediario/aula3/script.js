@@ -13,7 +13,7 @@ document.querySelectorAll('a')
 
 let ancoras = document.querySelectorAll ('a')
 
-ancoras.forEach(function(elemento){//Função aninoma / calback
+ancoras.forEach(function(elemento){//Função anonima / calback
     elemento.innerHTML = 'teste'
 })
 
